@@ -1,1 +1,1 @@
-This folder cotains the Images
+This folder stores diagrams, UI screenshots, and system architecture images for the AgriGPT project.
